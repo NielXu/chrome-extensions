@@ -1,0 +1,14 @@
+Following are the resources that resource sensor try
+to search for
+
+//*[contains(@style, "background-image")]
+
+const images = document.images
+for(let element of images) {
+    console.log(element.currentSrc);
+}
+
+const links = document.links;
+for(let element of links) {
+    console.log(element.href);
+}
