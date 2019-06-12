@@ -1,0 +1,27 @@
+{
+    "name": "Browse Later",
+    "version": "1.0",
+    "permissions": ["activeTab", "declarativeContent", "storage"],
+    "description": "Allow users to browse websites later instead of searching in history.",
+    "manifest_version": 2,
+    "background": {
+        "scripts": ["background.js"],
+        "persistent": false
+    },
+    "options_page": "options.html",
+    "page_action": {
+        "default_popup": "popup.html",
+        "default_icon": {
+            "16": "",
+            "32": "",
+            "48": "",
+            "128": ""
+        }
+    },
+    "icons": {
+        "16": "",
+        "32": "",
+        "48": "",
+        "128": ""
+    }
+}
