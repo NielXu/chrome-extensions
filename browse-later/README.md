@@ -12,4 +12,5 @@ be saved on cloud therefore you can browse them on different devices.
 - The list is stack-like, always browse the most recent one first(Can be configured)
 
 # Screenshots
-![screenshot](https://github.com/NielXu/chrome-extensions/blob/master/screenshots/ss1.png)
+![screenshot1](https://github.com/NielXu/chrome-extensions/blob/master/screenshots/ss1.png)
+![screenshot2](https://github.com/NielXu/chrome-extensions/blob/master/screenshots/ss2.png)
